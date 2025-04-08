@@ -1,4 +1,14 @@
+<p align="right">
+  <a href="https://octodex.github.com/surftocat/">
+    <img src="https://octodex.github.com/images/surftocat.png" width="150" alt="Surftocat">
+  </a>
+</p>
+
 # 👋 Hey there! I'm Quancheng (Vincent) Li
+
+[![Email](https://img.shields.io/badge/Email-Lqc0304@outlook.com-blue?style=flat-square&logo=gmail)](mailto:Lqc0304@outlook.com)
+[![Location](https://img.shields.io/badge/Seattle,%20WA-📍-lightgrey?style=flat-square)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quancheng-li-0a7a5a184/)
 
 I'm a curious software engineer, AI tinkerer, and occasional systems wrangler — currently finishing my M.S. in Computer Science at Northeastern University, Seattle 🌲 (GPA: 3.97). I love solving real-world problems through elegant code and human-centered AI design.
 
@@ -35,10 +45,6 @@ I'm a curious software engineer, AI tinkerer, and occasional systems wrangler �
 [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) 
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
-## 📫 Let’s Connect!
+---
 
-[![Email](https://img.shields.io/badge/Email-Lqc0304@outlook.com-blue?style=flat-square&logo=gmail)](mailto:Lqc0304@outlook.com)
-[![Location](https://img.shields.io/badge/Seattle,%20WA-📍-lightgrey?style=flat-square)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quancheng-li-0a7a5a184/)
-
-🎓 Always building. Always learning. Sometimes dreaming.
+🎓 *Always building. Always learning. Sometimes dreaming.*
