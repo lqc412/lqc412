@@ -35,9 +35,3 @@ I'm a curious software engineer, AI tinkerer, and occasional systems wrangler â€
 [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) 
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
-### ðŸš€ Interests  
-[![NLP](https://img.shields.io/badge/-NLP-blue?style=flat-square)](#) 
-[![Microservices](https://img.shields.io/badge/-Microservices-purple?style=flat-square)](#)  
-[![Full Stack](https://img.shields.io/badge/-Full--Stack-17a2b8?style=flat-square)](#) 
-[![Distributed Systems](https://img.shields.io/badge/-Distributed--Systems-6f42c1?style=flat-square)](#)
-
