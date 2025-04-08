@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://octodex.github.com/images/surftocat.png" width="350" alt="Surftocat">
-</p>
-
 # 👋 Hey there! I'm Quancheng (Vincent) Li
 
 I'm a curious software engineer, AI tinkerer, and occasional systems wrangler — currently finishing my **M.S. in Computer Science at Northeastern University, Seattle** 🌲 (GPA: 3.97).  
