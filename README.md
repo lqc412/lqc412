@@ -1,6 +1,6 @@
-<p align="right">
-  <img src="https://octodex.github.com/images/surftocat.png" width="150" alt="Surftocat">
-</p>
+<table>
+<tr>
+<td>
 
 # 👋 Hey there! I'm Quancheng (Vincent) Li
 
@@ -8,7 +8,16 @@
 [![Location](https://img.shields.io/badge/Seattle,%20WA-📍-lightgrey?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quancheng-li-0a7a5a184/)
 
-I'm a curious software engineer, AI tinkerer, and occasional systems wrangler — currently finishing my M.S. in Computer Science at Northeastern University, Seattle 🌲 (GPA: 3.97). I love solving real-world problems through elegant code and human-centered AI design.
+I'm a curious software engineer, AI tinkerer, and occasional systems wrangler — currently finishing my M.S. in Computer Science at Northeastern University, Seattle 🌲 (GPA: 3.97).  
+I love solving real-world problems through elegant code and human-centered AI design.
+
+</td>
+<td>
+  <img src="https://octodex.github.com/images/surftocat.png" width="150" alt="Surftocat">
+</td>
+</tr>
+</table>
+
 
 ---
 
