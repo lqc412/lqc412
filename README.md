@@ -1,28 +1,27 @@
-<table>
-<tr>
-<td valign="top">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-<h1>👋 Hey there! I'm Quancheng (Vincent) Li</h1>
+  <div style="flex: 1; min-width: 250px;">
+    <h1>👋 Hey there! I'm Quancheng (Vincent) Li</h1>
+    <p>
+      I'm a curious software engineer, AI tinkerer, and occasional systems wrangler — currently finishing my
+      <strong>M.S. in Computer Science at Northeastern University, Seattle</strong> 🌲 (GPA: 3.97).<br>
+      I love solving real-world problems through elegant code and human-centered AI design.
+    </p>
 
-<p>
-I'm a curious software engineer, AI tinkerer, and occasional systems wrangler — currently finishing my <strong>M.S. in Computer Science at Northeastern University, Seattle</strong> 🌲 (GPA: 3.97).<br>
-I love solving real-world problems through elegant code and human-centered AI design.
-</p>
+    <p>
+      <img src="https://img.shields.io/badge/Email-Lqc0304@outlook.com-blue?style=flat-square&logo=gmail">
+      <img src="https://img.shields.io/badge/Seattle,%20WA-📍-lightgrey?style=flat-square">
+      <a href="https://www.linkedin.com/in/quancheng-li-0a7a5a184/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+      </a>
+    </p>
+  </div>
 
-<p>
-  <img src="https://img.shields.io/badge/Email-Lqc0304@outlook.com-blue?style=flat-square&logo=gmail">
-  <img src="https://img.shields.io/badge/Seattle,%20WA-📍-lightgrey?style=flat-square">
-  <a href="https://www.linkedin.com/in/quancheng-li-0a7a5a184/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-</p>
+  <div>
+    <img src="https://octodex.github.com/images/surftocat.png" width="180" alt="Surftocat Octocat">
+  </div>
 
-</td>
-<td align="center" valign="top" width="400">
-  <img src="https://octodex.github.com/images/surftocat.png" width="350" alt="Octocat dancing">
-</td>
-</tr>
-</table>
+</div>
 
 
 
