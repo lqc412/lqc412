@@ -19,7 +19,7 @@ I love solving real-world problems through elegant code and human-centered AI de
 
 </td>
 <td align="center" valign="top" width="400">
-  <img src="https://octodex.github.com/images/surftocat.png" width="150" alt="Octocat dancing">
+  <img src="https://octodex.github.com/images/surftocat.png" width="350" alt="Octocat dancing">
 </td>
 </tr>
 </table>
