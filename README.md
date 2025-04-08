@@ -1,22 +1,29 @@
 <table>
 <tr>
-<td>
+<td valign="top">
 
-# 👋 Hey there! I'm Quancheng (Vincent) Li
+<h1>👋 Hey there! I'm Quancheng (Vincent) Li</h1>
 
-[![Email](https://img.shields.io/badge/Email-Lqc0304@outlook.com-blue?style=flat-square&logo=gmail)](mailto:Lqc0304@outlook.com)
-[![Location](https://img.shields.io/badge/Seattle,%20WA-📍-lightgrey?style=flat-square)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quancheng-li-0a7a5a184/)
-
-I'm a curious software engineer, AI tinkerer, and occasional systems wrangler — currently finishing my M.S. in Computer Science at Northeastern University, Seattle 🌲 (GPA: 3.97).  
+<p>
+I'm a curious software engineer, AI tinkerer, and occasional systems wrangler — currently finishing my <strong>M.S. in Computer Science at Northeastern University, Seattle</strong> 🌲 (GPA: 3.97).<br>
 I love solving real-world problems through elegant code and human-centered AI design.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Email-Lqc0304@outlook.com-blue?style=flat-square&logo=gmail">
+  <img src="https://img.shields.io/badge/Seattle,%20WA-📍-lightgrey?style=flat-square">
+  <a href="https://www.linkedin.com/in/quancheng-li-0a7a5a184/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 </td>
-<td>
-  <img src="https://octodex.github.com/images/surftocat.png" width="150" alt="Surftocat">
+<td align="center" valign="top" width="200">
+  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="150" alt="Octocat dancing">
 </td>
 </tr>
 </table>
+
 
 
 ---
