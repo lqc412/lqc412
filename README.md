@@ -1,7 +1,5 @@
 <p align="right">
-  <a href="https://octodex.github.com/surftocat/">
-    <img src="https://octodex.github.com/images/surftocat.png" width="150" alt="Surftocat">
-  </a>
+  <img src="https://octodex.github.com/images/surftocat.png" width="150" alt="Surftocat">
 </p>
 
 # 👋 Hey there! I'm Quancheng (Vincent) Li
