@@ -20,24 +20,6 @@ My work lies at the intersection of **machine learning**, **systems**, and **hum
 - Designed front-end workflows in **React + TypeScript**
 - Collaborated with designers to enhance UX through layout and hierarchy optimization
 
----
-
-## 🚀 Highlight Projects
-
-- 🎙️ **SlideSpeak**: On-device AI assistant that generates slides, transcript, and images from a single prompt using **PyTorch + Stable Diffusion**  
-  *[Edge AI + Multimodal Inference]*
-
-- 🧠 **MUGC – Detecting AI-Generated Reviews**: BERT and DetectGPT-based pipeline with **98.77% accuracy** on distinguishing AI vs. human-written e-commerce reviews  
-  *[Deep Learning, Zero-Shot Detection]*
-
-- ♟️ **Chess AI**: Minimax + Alpha-Beta pruning engine with custom heuristics and interactive tree visualizations  
-  *[Adversarial Search, Visualization]*
-
-- 🚡 **Skier Lift Ride System**: Distributed REST API system with **Java + RabbitMQ + Redis**, scaling to 200K+ concurrent events  
-  *[Cloud Systems, AWS EC2, Load Balancing]*
-
----
-
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/quancheng-li-0a7a5a184/)  
